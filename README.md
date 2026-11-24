@@ -1,6 +1,6 @@
 # Sonar Demo Project
 
-Small Python project analyzed with SonarQube Cloud.
+Small Python project analyzed with  the SonarQube Cloud.
 
 - `src/` source code
 - `tests/` unit tests
